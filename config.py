@@ -4,7 +4,6 @@ from albumentations.pytorch import ToTensorV2
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 TRAIN_DIR = "C:/Idris/Ecole/2A/CycleGAN/dataset/human2cateyes"
-VAL_DIR = "C:/Users/inech/Downloads/CycleGAN/dataset/human2cateyes"
 BATCH_SIZE = 1
 LEARNING_RATE = 1e-5
 LAMBDA_IDENTITY = 0
