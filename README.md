@@ -19,7 +19,7 @@ To run the code, follow these steps:
 3. Open the `app.py` file in any Python IDE of your choice (e.g., VSCode).
 4. Update the paths for `UPLOAD_FOLDER` and `checkpoint_path` to match your local setup.
 
-Once the setup is complete, execute the code. A link will be provided in the terminal, which you can open in your browser to use the web interface.
+Once the setup is complete, execute the code. A link will be provided in the terminal, which you can open in your browser to use the web interface. Generated images will be saved in the folder `uploads`
 
 ![Web Interface](https://github.com/user-attachments/assets/5d366ee9-bac4-45d2-83b8-ad2b3bf51c97)
 
